@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreykonev&show_icons=true&locale=en&layout=compact" alt="andreykonev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreykonev&show_icons=true&locale=en" alt="andreykonev" /></p>
+
+![GitHub Snake dark](https://github.com/IngannamorteScienceDev/IngannamorteScienceDev/blob/output/snake.svg?palette=github-dark)
