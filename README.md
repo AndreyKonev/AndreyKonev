@@ -17,6 +17,14 @@
 
 Hello world!
 
+A Product Manager with extensive experience in launching large startups, as well as more than 3+ years of successful work in the financial and AI products industry. My GitHub https://github.com/AndreyKonev (A stack of tools and technologies that I have worked with on various projects is presented)
+
+I have a deep understanding of the entire product lifecycle, from concept and strategic planning to launch and post-release analysis.
+
+My experience includes launching amoCRM, Yandex, and my own startup projects with a full development cycle from concept to implementation and market entry with in-depth study of metrics analytics.
+
+I am currently the product manager of the Eofin Fleetman corporate fleet insurance platform.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
