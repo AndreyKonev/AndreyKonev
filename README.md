@@ -17,7 +17,7 @@
 
 Hello world!
 
-A Product Manager with extensive experience in launching large startups, as well as more than 3+ years of successful work in the financial and AI products industry. My GitHub https://github.com/AndreyKonev (A stack of tools and technologies that I have worked with on various projects is presented)
+A Product Manager with extensive experience in launching large startups, as well as more than 3+ years of successful work in the financial and AI products industry. 
 
 I have a deep understanding of the entire product lifecycle, from concept and strategic planning to launch and post-release analysis.
 
