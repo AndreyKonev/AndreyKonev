@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **a.konev2602@gmail.com**
 
-- 📄 Know about my experiences [https://disk.yandex.ru/d/dTkdsolBTXNv7g](https://disk.yandex.ru/d/dTkdsolBTXNv7g)
+- 📄 Know about my experiences https://disk.yandex.ru/i/PBmCnUAev_Va3Q
 
 - ⚡ Fun fact **Football geek**
 
