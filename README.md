@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **StartUps**
 
-- 👨‍💻 All of my projects are available at [myuniapp.ru](myuniapp.ru)
+- 👨‍💻 My Sratup [myuniapp.ru](myuniapp.ru)
 
 - 📫 How to reach me **a.konev2602@gmail.com**
 
@@ -15,7 +15,7 @@
 
 - 🎓 HSE (Mast. 2023-2025) , MGIMO (Bach. 2019-2023), IE Business school Madrid (Intern. 2021-2022)
 
-- SL-TECH 2025 - cur..., AmoCRM (KOMMO) 2024-2025, Yandex SM 2024, mELONY LLC (2023 - cur...), MAX LTD FINTECH (2023), KROK (2022) 
+- 👨‍💻 SL-TECH 2025 - cur..., AmoCRM (KOMMO) 2024-2025, Yandex SM 2024, mELONY LLC (2023 - cur...), MAX LTD FINTECH (2023), KROK (2022) 
 
 
 ## About me
