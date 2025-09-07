@@ -17,9 +17,10 @@
 
 - 👨‍💻 SL-TECH 2025 - cur..., AmoCRM (KOMMO) 2024-2025, Yandex SM 2024, mELONY LLC (2023 - cur...), MAX LTD FINTECH (2023), KROK (2022) 
 
-<p align="center">
-    ![Image](https://github.com/user-attachments/assets/e8a060fe-9872-469e-b857-41c12f40c855)
-</p>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/e8a060fe-9872-469e-b857-41c12f40c55" width="100"/>
+</div>
+
 
 
 
